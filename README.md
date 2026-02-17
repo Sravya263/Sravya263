@@ -12,6 +12,20 @@ Learning something new every day and building projects along the way.<br><br>Cur
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Sravya263&icon=0&color=0)](https://visitcount.itsvg.in)
+## 🤝 Let's Connect!
+
+<p align="center">
+
+  <a href="mailto:ksravya047@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail" alt="Email"/>
+  </a>
+</p>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sravya263&color=blueviolet&style=for-the-badge" alt="Profile views"/>
+</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
