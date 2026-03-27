@@ -10,12 +10,12 @@ Learning something new every day and building projects along the way.<br><br>Cur
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Sravya263&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Sravya263&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sravya263&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Lakshmisravya001&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Lakshmisravya001&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lakshmisravya001&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Sravya263&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Lakshmisravya001&icon=0&color=0)](https://visitcount.itsvg.in)
 ## 🤝 Let's Connect!
 
 <p align="center">
@@ -28,13 +28,13 @@ Learning something new every day and building projects along the way.<br><br>Cur
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sravya263&color=blueviolet&style=for-the-badge" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=Lakshmisravya001&color=blueviolet&style=for-the-badge" alt="Profile views"/>
 </div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!--
-**Sravya263/Sravya263** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Lakshmisravya001/Lakshmisravya001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
