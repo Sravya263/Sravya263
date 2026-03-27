@@ -23,6 +23,13 @@
 ## 🏆 Achievements
 
 ![](https://github-profile-trophy.vercel.app/?username=lakshmisravya001&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
+### ✨ Highlights
+
+- 🎓 Master’s in Computer Science  
+- 🤖 Built projects using LLMs and Retrieval-Augmented Generation (RAG)  
+- 💻 Strong foundation in Programming (C, C++, Java, Python)  
+- 🌐 Developed full-stack web applications  
+- 📊 Experience with data analysis (Pandas, NumPy, ML models)  
 ## 📈 Contribution Graph
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=lakshmisravya001&theme=tokyo-night&hide_border=true)
