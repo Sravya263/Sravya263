@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=200&section=header&text=Venkata%20Lakshmi%20Sravya&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+there+👋;I'm+Lakshmi+Sravya;Master’s+Graduate+in+Computer+Science;Software+Developer+in+the+Making;AI+%7C+Web+%7C+Cloud;Always+Learning+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+there+👋;I'm+Venkata+Lakshmi+Sravya;Master’s+Graduate+in+Computer+Science;Software+Developer+in+the+Making;AI+%7C+Web+%7C+Cloud;Always+Learning+🚀" />
 </p>
 # 💻 Tech Stack:
 
