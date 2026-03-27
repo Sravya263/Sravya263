@@ -28,7 +28,7 @@ Learning something new every day and building projects along the way.<br><br>Cur
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Lakshmisravya001&color=blueviolet&style=for-the-badge" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=lakshmisravya001&color=blueviolet&style=for-the-badge" alt="Profile views"/>
 </div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
