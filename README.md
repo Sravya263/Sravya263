@@ -13,38 +13,35 @@
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ## 📊 GitHub Stats
-
- ![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=lakshmisravya001&theme=tokyonight&hide_border=true&count_private=true)
+![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=lakshmisravya001&theme=tokyonight&hide_border=true&count_private=true)
 
 ![Streak](https://streak-stats.demolab.com?user=lakshmisravya001&theme=tokyonight&hide_border=true)
 
 ![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=lakshmisravya001&layout=compact&theme=tokyonight)
 
 ## 🏆 Achievements
-
 ![](https://github-profile-trophy.vercel.app/?username=lakshmisravya001&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
 ### ✨ Highlights
-
 - 🎓 Master’s in Computer Science  
 - 🤖 Built projects using LLMs and Retrieval-Augmented Generation (RAG)  
 - 💻 Strong foundation in Programming (C, C++, Java, Python)  
 - 🌐 Developed full-stack web applications  
 - 📊 Experience with data analysis (Pandas, NumPy, ML models)  
 ## 📈 Contribution Graph
-
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=lakshmisravya001&theme=tokyo-night&hide_border=true)
 
 ## 🌐 Connect With Me
-
 <p align="center">
   <a href="https://lakshmisravya001.github.io/Venkata_portfolio/">
     <img src="https://img.shields.io/badge/Portfolio-Visit-8A2BE2?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
-
+</p>
+  <p align="center">
   <a href="https://www.linkedin.com/in/venkata-lakshmi-k-680382375/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-
+  </p>
+    <p align="center">
   <a href="mailto:ksravya047@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
