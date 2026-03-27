@@ -14,11 +14,11 @@
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=lakshmisravya001&theme=tokyonight&hide_border=true&count_private=true)
+ ![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=lakshmisravya001&theme=tokyonight&hide_border=true&count_private=true)
 
 ![Streak](https://streak-stats.demolab.com?user=lakshmisravya001&theme=tokyonight&hide_border=true)
 
-![Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=lakshmisravya001&layout=compact&theme=tokyonight)
+![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=lakshmisravya001&layout=compact&theme=tokyonight)
 
 ## 🏆 Achievements
 
@@ -34,7 +34,7 @@
     <img src="https://img.shields.io/badge/Portfolio-Visit-8A2BE2?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
 
-  <a href="https://www.linkedin.com/in/venkata-lakshmi-k-680382375/>
+  <a href="https://www.linkedin.com/in/venkata-lakshmi-k-680382375/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
